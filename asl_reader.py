@@ -1,3 +1,5 @@
+# ASL Reader using KNN and cosine similarity
+
 import cv2
 import mediapipe as mp
 import numpy as np
