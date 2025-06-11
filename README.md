@@ -27,14 +27,14 @@ cd asl-reader
 
 2. Install the required packages:
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 Run the main script:
 ```bash
-python asl_reader.py
+python3 asl_reader.py
 ```
 
 ### Training Mode
